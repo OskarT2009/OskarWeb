@@ -39,6 +39,10 @@
   img {
     width: 100%;
   }
+
+  p {
+    font-size: 25px;
+  }
   
   .container {
     max-width: 1100px;
